@@ -3,18 +3,21 @@
 ### 1. 定时执行专家
 - **标题**: 定时执行专家 —— 毫秒精度、专业级的定时任务执行软件
 - **简介**: 一款制作精良、功能强大、毫秒精度、专业级的定时任务执行软件。软件具有 135 种【任务类型】（26个自带任务类型 + 109个Nircmd命令类型）、12 种【触发器】触发方式，并且全面支持界面化【Cron表达式】设置。软件采用多线程并发方式检测任务触发和任务执行，能够达到毫秒级的执行精度，可以同时支持200个以上任务的毫秒级触发。
+- **详细介绍**: [定时执行专家 —— 毫秒精度、专业级的定时任务执行软件](TimingExecutor.md)
 - **最新版下载**: [TimingExecutor-V8.6-260823.zip](https://pan.baidu.com/s/1F3c9G6ucOXc5ppdFbdF8qg?pwd=bmwx)
 - **主窗口图片**: ![定时执行专家主窗口](https://i-blog.csdnimg.cn/direct/aced2b5c7cc247cfa566f1b14b416e33.png)
 
 ### 2. 时间都去哪了（TimeWhere）
 - **标题**: 时间都去哪了（TimeWhere）—— 工作日志自动记录工具
 - **简介**: 时间都去哪了（TimeWhere）是一款个人工作日志、时间线、效率统计工具。它可以常驻后台，自动记录每个时刻正在使用的应用与窗口，并定时静默截屏留存，自动识别"离开"状态；基于规则为工作内容自动分类，生成"时间都去哪了"日报，辅以时段/应用排行榜/汇总报表，帮助你复盘时间去向。
+- **详细介绍**: [时间都去哪了 TimeWhere：工作日志自动记录工具 —— 你的每一分钟，都值得被看见](TimeWhere.md)
 - **最新版下载**: [TimeWhere-V1.5-260823.zip](https://pan.baidu.com/s/1VPO3rf91kRPEQ1XcO1OuYA?pwd=bmwx)
 - **主窗口图片**: ![时间都去哪了主窗口](https://i-blog.csdnimg.cn/direct/916c42534ecc46cb84a11c237f096731.png)
 
 ### 3. 隐身截屏Pro
 - **标题**: 隐身截屏Pro - 多种截屏模式、支持窗口过滤精控截屏内容
 - **简介**: 隐身截屏Pro（HiddenShot Pro）是一款功能强大的自动截屏工具。本软件有多种截图模式，包括：全屏、固定区域、鼠标周围、鼠标下控件、活动窗口五种模式，并具有智能去重、窗口过滤、空闲暂停、密码保护、自动清理、隐私保护等功能选项，能够精确控制截图内容。
+- **详细介绍**: [隐身截屏Pro（HiddenShot Pro） —— 重新定义自动化屏幕捕获](HiddenShot.md)
 - **最新版下载**: [HiddenShot-V2.3-260823.zip](https://pan.baidu.com/s/1P9JzOky_rXETffReV3hYyA?pwd=bmwx)
 - **主窗口图片**: ![隐身截屏Pro主窗口](https://i-blog.csdnimg.cn/direct/7ae8d050f0324890a4abc33d12dc56f0.png)
 
